@@ -1,4 +1,4 @@
 Projeto desenvolvido para cadeira de Computação Gráfica.
 
-Requisitos: 
+Requisitos para rodar: 
 - Instalar Processing: [aqui](https://processing.org/download)
